@@ -26,3 +26,4 @@ const reducer = (state: RepositoriesState = initialState, action: Action): Repos
 } 
 
 export default reducer;
+
